@@ -31,6 +31,11 @@ https://arxiv.org/abs/1206.3093
 Author-maintained overview, **Spaces with dilations / Sub-Riemannian geometry / Non-euclidean analysis**  
 https://www.imar.ro/~mbuliga/buliga_sr.html
 
+### Historical / neighboring geometry bridge
+
+Athanase Papadopoulos's work is not being identified with Buliga's dilation structures. A small subset is useful here because it tracks older routes into projective/Finsler metrics, non-Euclidean geometry, quasiconformal distortion, and local geometric comparison.
+
+See [`papadopoulos-geometry-bridges.md`](papadopoulos-geometry-bridges.md).
 ## Emergent algebras / braids
 
 Marius Buliga, **Emergent algebras**  
